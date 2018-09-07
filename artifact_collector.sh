@@ -294,7 +294,7 @@ function main {
 
 main
 
-
+main > out.csv
 
 
 
